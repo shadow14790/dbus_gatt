@@ -25,6 +25,7 @@
 #include <cstring>
 #include <iostream>
 #include <vector>
+#include <thread>
 
 #include "dbus_gatt/dbus_gatt.h"
 #include "dbus_gatt/dbus_gatt_exceptions.h"

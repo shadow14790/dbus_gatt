@@ -27,6 +27,7 @@
 #include <algorithm>
 #include <string>
 #include <vector>
+#include <cstdint>
 
 #include "dbus_gatt/dbus_gatt_types.h"
 #include "dbus_object_path.h"
